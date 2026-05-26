@@ -1,0 +1,29 @@
+{
+  "name": "XT600Z T\u00e9n\u00e9r\u00e9 Handbuch",
+  "short_name": "XT600Z",
+  "description": "Werkstatthandbuch f\u00fcr die Yamaha XT600Z T\u00e9n\u00e9r\u00e9 34L",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6E5C9",
+  "theme_color": "#7A4A2A",
+  "icons": [
+    {
+      "src": "icons/apple-touch-icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "utilities",
+    "automotive"
+  ],
+  "lang": "de"
+}
