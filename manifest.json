@@ -2,7 +2,7 @@
   "name": "XT600Z T\u00e9n\u00e9r\u00e9 Handbuch",
   "short_name": "XT600Z",
   "description": "Werkstatthandbuch f\u00fcr die Yamaha XT600Z T\u00e9n\u00e9r\u00e9 34L",
-  "start_url": "/",
+  "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#F6E5C9",
@@ -25,5 +25,6 @@
     "utilities",
     "automotive"
   ],
-  "lang": "de"
+  "lang": "de",
+  "scope": "./"
 }
