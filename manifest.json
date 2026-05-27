@@ -1,7 +1,7 @@
 {
-  "name": "XT600Z T\u00e9n\u00e9r\u00e9 Handbuch",
+  "name": "XT600Z Ténéré Handbuch",
   "short_name": "XT600Z",
-  "description": "Werkstatthandbuch f\u00fcr die Yamaha XT600Z T\u00e9n\u00e9r\u00e9 34L",
+  "description": "Werkstatthandbuch für die Yamaha XT600Z Ténéré 34L",
   "start_url": "./",
   "display": "standalone",
   "orientation": "portrait",
@@ -10,6 +10,12 @@
   "icons": [
     {
       "src": "icons/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-192.png",
       "sizes": "192x192",
       "type": "image/png",
       "purpose": "any maskable"
@@ -21,10 +27,7 @@
       "purpose": "any maskable"
     }
   ],
-  "categories": [
-    "utilities",
-    "automotive"
-  ],
+  "categories": ["utilities", "automotive"],
   "lang": "de",
   "scope": "./"
 }
