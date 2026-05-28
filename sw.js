@@ -1,4 +1,4 @@
-const CACHE = 'xt600z-v31';
+const CACHE = 'xt600z-v32';
 
 // Use relative paths so it works on any host (Netlify, GitHub Pages, Vercel etc.)
 const ASSETS = [
